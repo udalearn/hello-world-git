@@ -1,2 +1,2 @@
-# hellow-world-git
+# hello-world-git
 first github repo
