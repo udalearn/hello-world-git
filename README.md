@@ -1,2 +1,2 @@
-# hellow-worl-git
+# hellow-world-git
 first github repo
